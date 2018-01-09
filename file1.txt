@@ -1,3 +1,4 @@
 Hello There,
 Testing of github commands
-Learn how to use github
+
+Github is very usefull tool
